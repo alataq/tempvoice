@@ -1,6 +1,6 @@
 export default {
-  label: 'Jevenchy',
+  label: 'Alataq',
   embedcode: '#2f3136',
-  language: 'en',
+  language: 'fr',
   log: true
 }

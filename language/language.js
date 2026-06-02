@@ -4,6 +4,7 @@ import ru from './ru.js'
 import jp from './jp.js'
 import cn from './cn.js'
 import de from './de.js'
+import fr from './fr.js'
 
 export default {
   en,
@@ -11,5 +12,6 @@ export default {
   ru,
   jp,
   cn,
-  de
+  de,
+  fr
 }
